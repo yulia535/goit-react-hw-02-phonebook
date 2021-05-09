@@ -1,9 +1,9 @@
 import React from 'react';
-import Counter from './components/counter';
+import Phonebook from './components/Phonebook/Phonebook';
 
 const App = () => (
   <div>
-    <Counter />
+    <Phonebook />
   </div>
 );
 
